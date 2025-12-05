@@ -11,3 +11,15 @@ export const Socials = [
     imagePath: '/discord.svg',
   },
 ]
+
+export const languages = [
+  { name: 'JavaScript', imagePath: '/tech/javascript.svg' },
+  { name: 'TypeScript', imagePath: '/tech/typescript.svg' },
+  { name: 'HTML5', imagePath: '/tech/html5.svg' },
+  { name: 'CSS3', imagePath: '/tech/css3.svg' },
+  { name: 'Tailwind', imagePath: '/tech/tailwind.svg' },
+  { name: 'Figma', imagePath: '/tech/figma.svg' },
+  { name: 'React', imagePath: '/tech/react.svg' },
+  { name: 'Next', imagePath: '/tech/next.svg' },
+  { name: 'GitHub', imagePath: '/tech/github.svg' },
+]
